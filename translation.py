@@ -31,7 +31,7 @@ This is a Telegram Rename Bot!
 
 --------
 
-Support Group : @closss
+Support Group : @Movie_loverz_group
 © @close_chapters @Movie_loverz_group"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
